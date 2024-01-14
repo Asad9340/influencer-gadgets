@@ -181,7 +181,7 @@ body {
 }
 /* comment */
 /* Feature section style ends here */
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 360px) {
   .header-container,
   .header-container ul {
     flex-direction: column;
