@@ -130,10 +130,11 @@ body {
 }
 .see-more {
   text-align: right;
-  margin-right: 20px;
+  margin: 20px;
   color: rgba(224, 44, 109, 0.87);
   font-size: 16px;
   font-weight: 700;
+  padding-right: 20px;
 }
 
 /* Feature section style starts here */
@@ -234,6 +235,7 @@ body {
   .card-container {
     display: grid;
     grid-template-columns: 1fr;
+    margin:0 15px;
   }
   .feature-product {
     flex-direction: column-reverse;
